@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="reportConfig:war">
+    <output-path>$PROJECT_DIR$/../../../自定义方法/reportConfig/target</output-path>
+    <root id="archive" name="reportConfig.war">
+      <element id="artifact" artifact-name="reportConfig:war exploded" />
+    </root>
+  </artifact>
+</component>

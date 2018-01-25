@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="thfirt-tingyun-api" />
+        <module name="thrift-tingyun-consumer" />
+        <module name="thrift-tingyun-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="reportConfig" target="1.5" />
+      <module name="thfirt-tingyun-api" target="1.5" />
+      <module name="thrift-tingyun" target="1.5" />
+      <module name="thrift-tingyun-consumer" target="1.6" />
+      <module name="thrift-tingyun-provider" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="thrift-tingyun-consumer:war">
+    <output-path>$PROJECT_DIR$/thrift-tingyun-consumer/target</output-path>
+    <root id="archive" name="thrift-tingyun-consumer.war">
+      <element id="artifact" artifact-name="thrift-tingyun-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>

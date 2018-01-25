@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thfirt-tingyun-api/thfirt-tingyun-api.iml" filepath="$PROJECT_DIR$/thfirt-tingyun-api/thfirt-tingyun-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thrift-tingyun.iml" filepath="$PROJECT_DIR$/thrift-tingyun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thrift-tingyun-consumer/thrift-tingyun-consumer.iml" filepath="$PROJECT_DIR$/thrift-tingyun-consumer/thrift-tingyun-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thrift-tingyun-provider/thrift-tingyun-provider.iml" filepath="$PROJECT_DIR$/thrift-tingyun-provider/thrift-tingyun-provider.iml" />
+    </modules>
+  </component>
+</project>
